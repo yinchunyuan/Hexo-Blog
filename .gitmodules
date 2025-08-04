@@ -1,0 +1,3 @@
+[submodule "Blog/themes/hexo-theme-wang"]
+	path = Blog/themes/hexo-theme-wang
+	url = https://github.com/xingwangzhe/hexo-theme-wang.git
