@@ -5,6 +5,7 @@ tags:
 comments: true 
 ---
 
+<!-- more -->
 ## 一、相关命令
 
   | 功能                                      |                                 |
