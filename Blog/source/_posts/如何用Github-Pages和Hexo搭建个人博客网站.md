@@ -11,13 +11,13 @@ comments: true
 
 ## 来迟的文章
 ###  一.
-       首先在Github上fork Hexo 和 Github.Pages仓库
+       首先在Github上fork Hexo 和 Github.Pages仓库(这个步骤倒也不是必须的)
        链接:   Hexo: [GitHub](https://github.com/hexojs/hexo)   
-          Github.Pages[Github](https://github.com/academicpages/academicpages.github.io)
+               Github.Pages[Github](https://github.com/academicpages/academicpages.github.io)
 
 
-###  二. 
-   第一步 进入Hexo项目根目录     cd Hexo
+###  二. 具体步骤  (前置: 安装Node.js、git, 注册github账号)
+   第一步 进入Hexo项目根目录                cd Hexo
    第二步 拉取最新代码(确保与远程repo一样)   git pull origin main (如果主分支为main)
    第三步 创建或编辑文章                    hexo new "~"
    第四步 本地预览文章                      hexo server
