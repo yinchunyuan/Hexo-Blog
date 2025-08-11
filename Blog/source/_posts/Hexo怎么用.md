@@ -25,7 +25,7 @@ comments: true
   注意: 开始写文章前最好先用 hexo clean 清除一下旧的缓存文件
 
 
-  表示截断 <!-- more -->
+  
 
 ## 二、 _config.yml
         根目录配置文件 _config.yml
