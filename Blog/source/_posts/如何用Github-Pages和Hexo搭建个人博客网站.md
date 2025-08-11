@@ -23,7 +23,7 @@ comments: true
 #### 3. 联系到 Github
       命令: npm install hexo-deployer-git --save
       改一下 XXX 目录下的 _config.yml, 在最后的 deploy 那块增加一下自己的 github 信息
-      ![无法出现](images/githubio.png)
+     
       
 
 ###  二. 具体步骤  
