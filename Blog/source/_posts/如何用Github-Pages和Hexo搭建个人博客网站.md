@@ -6,7 +6,6 @@ comments: true
 ---
 
 
-
 <!-- more -->
 # 如何用Github.Pages和Hexo搭建个人博客网站
 
@@ -24,7 +23,6 @@ comments: true
       命令: npm install hexo-deployer-git --save
       改一下 XXX 目录下的 _config.yml, 在最后的 deploy 那块增加一下自己的 github 信息
      
-      
 
 ###  二. 具体步骤  
    第一步 进入Hexo项目根目录                cd Hexo
@@ -39,9 +37,3 @@ comments: true
 ### 三. 
    Hexo是个简单、功能强大的博客框架
    使用 npm 安装 Hexo
-   
-   
-
-
-### 四. Jekyll 静态站点生成器
-

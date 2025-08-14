@@ -19,24 +19,16 @@ comments: true
   | 显示版本信息                              |   hexo version  或 hexo v        |
   | 安装项目依赖(首次使用hexo最好安装)         |   npm install                    |
   
-
-
   命令可以用 && 来组合
   注意: 开始写文章前最好先用 hexo clean 清除一下旧的缓存文件
 
-
-  
 
 ## 二、 _config.yml
         根目录配置文件 _config.yml
         这个文件位于 Hexo 的根目录
 
 
-
-
-
-
-三、内容维护
+## 三、内容维护
    title: 文章的标题
    date: 文章的发布日期
    tags: 文章标签, 一个文章可以添加多个标签
@@ -51,10 +43,8 @@ comments: true
                           source/(文章、页面、图片等资源在此)
                           themes: 网站的主题在此
 
-
-
 好用的主题: anzhiyu
 
 2025-8-14 周四
-激动, 自己买了域名, 托管到 GithubPages 上, 直接就有 SSL 证书啦, 原来在 GithubPages 上托管的网站直接就有证书
+激动, 自己买了域名, 托管到 GithubPages 上,  直接就有 SSL 证书啦,  原来在 GithubPages 上托管的网站直接就有证书
 白天瞎忙活半天...
