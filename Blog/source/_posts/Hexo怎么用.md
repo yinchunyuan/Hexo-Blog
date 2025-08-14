@@ -54,3 +54,7 @@ comments: true
 
 
 好用的主题: anzhiyu
+
+2025-8-14 周四
+激动, 自己买了域名, 托管到 GithubPages 上, 直接就有 SSL 证书啦, 原来在 GithubPages 上托管的网站直接就有证书
+白天瞎忙活半天...
