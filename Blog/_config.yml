@@ -104,3 +104,6 @@ deploy:
   type: 'git'
   repo: git@github.com:ycy1011/yinchunyuan.github.io.git
   branch: main 
+
+
+favicon: /assets/website-header.png 
