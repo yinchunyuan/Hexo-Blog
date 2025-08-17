@@ -102,7 +102,7 @@ theme: hexo-theme-wang
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: git@github.com:ycy1011/yinchunyuan.github.io.git
+  repo: git@github.com:yinchunyuan/yinchunyuan.github.io.git
   branch: main 
 
 
